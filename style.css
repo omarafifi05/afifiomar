@@ -1,12 +1,14 @@
 body{
     margin: 0;
     background-color: rgb(12, 12, 12);
-    max-width: 400px;
+   max-width: 400px;
+  
 }
 *{
     margin: 0;
    zoom: 94%;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 nav{
@@ -126,7 +128,7 @@ align-items: end;
     
 }
 .lastdiv{
-       display: flex;
+    display: flex;
     justify-content: space-around;
    max-width: 400px;
    max-height: -660px;
