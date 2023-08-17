@@ -1,6 +1,7 @@
 body{
-    margin-right: auto;
+    margin: 0;
     background-color: rgb(12, 12, 12);
+    mac-width: 400px;
 }
 *{
     margin: 0;
@@ -124,3 +125,8 @@ align-items: end;
   margin-bottom: 10px;
     
 }
+.lastdiv{
+     max-width: 400px;
+  
+}
+
